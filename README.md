@@ -1,5 +1,5 @@
 <p align="center">
-   My Name is Hassan RauF and I like Javascript
+   My Name is Hassan Rauf and I like Javascript
 </p>
 
 <p align="center">
